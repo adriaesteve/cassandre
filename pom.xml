@@ -65,6 +65,12 @@
 		    <artifactId>cassandre-trading-bot-spring-boot-starter-api-graphql</artifactId>
 		    <version>6.0.0</version>
 		</dependency>
+		<!-- BBDD -->
+		<dependency>
+		    <groupId>org.postgresql</groupId>
+		    <artifactId>postgresql</artifactId>
+		    <version>42.4.0</version>
+		</dependency>
 		
 		<!-- Tests -->
 		<dependency>
